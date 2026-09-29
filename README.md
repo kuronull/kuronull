@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there! My name is Hung, and I am an AI Research Engineer. 
 
-Research field: Domain Adaptation, Vision-language, 3D Recontruction, Graph Neural Network
+Research field: Large Language Model, AI-Agent, ...
 
 ## 🎓Education
 - **Hanoi University of Science and Technology**  
