@@ -11,6 +11,7 @@ Research field: Domain Adaptation, Vision-language, 3D Recontruction, Graph Neur
 ## 💼 Work Experience
 - **AI Engineer - [VMO Holding]**
   *Duration: 1/2026 - 9/2026*
+  
 - **AI Engineer - [AvePoint Inc.]**  
   *Duration: 9/2024 – 1/2026*  
   - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and AI Agents.
